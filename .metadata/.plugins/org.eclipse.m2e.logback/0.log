@@ -1,0 +1,238 @@
+2023-10-23 01:03:17,014 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-23 01:22:40,453 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-webapp/1.4/maven-archetype-webapp-1.4.pom
+2023-10-23 01:22:41,530 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-webapp/1.4/maven-archetype-webapp-1.4.pom
+2023-10-23 01:22:42,364 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-bundles/1.4/maven-archetype-bundles-1.4.pom
+2023-10-23 01:22:42,577 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-bundles/1.4/maven-archetype-bundles-1.4.pom
+2023-10-23 01:22:43,355 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-webapp/1.4/maven-archetype-webapp-1.4.jar
+2023-10-23 01:22:43,501 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-webapp/1.4/maven-archetype-webapp-1.4.jar
+2023-10-23 01:23:44,703 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755 [621])
+2023-10-23 01:23:44,931 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\USER\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755
+2023-10-23 01:23:44,932 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\USER\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\aether-connector-okhttp-0.17.8.jar
+2023-10-23 01:23:44,932 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\USER\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\aopalliance-1.0.jar
+2023-10-23 01:23:44,932 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\USER\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\commons-lang3-3.12.0.jar
+2023-10-23 01:23:44,933 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\USER\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\guice-5.1.0.jar
+2023-10-23 01:23:44,933 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\USER\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\jansi-2.4.0.jar
+2023-10-23 01:23:44,933 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\USER\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-artifact-3.9.4.jar
+2023-10-23 01:23:44,934 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\USER\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-builder-support-3.9.4.jar
+2023-10-23 01:23:44,934 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\USER\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-compat-3.9.4.jar
+2023-10-23 01:23:44,934 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\USER\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-core-3.9.4.jar
+2023-10-23 01:23:44,934 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\USER\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-embedder-3.9.4.jar
+2023-10-23 01:23:44,935 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\USER\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-model-3.9.4.jar
+2023-10-23 01:23:44,935 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\USER\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-model-builder-3.9.4.jar
+2023-10-23 01:23:44,935 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\USER\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-plugin-api-3.9.4.jar
+2023-10-23 01:23:44,935 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\USER\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-repository-metadata-3.9.4.jar
+2023-10-23 01:23:44,936 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\USER\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-api-1.9.14.jar
+2023-10-23 01:23:44,936 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\USER\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-connector-basic-1.9.14.jar
+2023-10-23 01:23:44,936 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\USER\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-impl-1.9.14.jar
+2023-10-23 01:23:44,936 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\USER\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-named-locks-1.9.14.jar
+2023-10-23 01:23:44,937 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\USER\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-provider-3.9.4.jar
+2023-10-23 01:23:44,937 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\USER\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-spi-1.9.14.jar
+2023-10-23 01:23:44,937 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\USER\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-transport-wagon-1.9.14.jar
+2023-10-23 01:23:44,938 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\USER\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-util-1.9.14.jar
+2023-10-23 01:23:44,938 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\USER\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-settings-3.9.4.jar
+2023-10-23 01:23:44,938 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\USER\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-settings-builder-3.9.4.jar
+2023-10-23 01:23:44,938 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\USER\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-shared-utils-3.3.4.jar
+2023-10-23 01:23:44,939 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\USER\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\okhttp-3.14.1.jar
+2023-10-23 01:23:44,939 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\USER\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\okio-1.17.3.jar
+2023-10-23 01:23:44,939 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\USER\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\org.eclipse.sisu.inject-0.3.5.jar
+2023-10-23 01:23:44,939 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\USER\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2023-10-23 01:23:44,940 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\USER\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-build-api-0.0.7.jar
+2023-10-23 01:23:44,940 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\USER\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-cipher-2.0.jar
+2023-10-23 01:23:44,940 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\USER\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-classworlds-2.7.0.jar
+2023-10-23 01:23:44,941 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\USER\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-component-annotations-2.1.0.jar
+2023-10-23 01:23:44,941 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\USER\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-interpolation-1.26.jar
+2023-10-23 01:23:44,941 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\USER\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-sec-dispatcher-2.0.jar
+2023-10-23 01:23:44,941 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\USER\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-utils-3.5.1.jar
+2023-10-23 01:23:44,942 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\USER\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\wagon-file-3.5.3.jar
+2023-10-23 01:23:44,942 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\USER\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\wagon-provider-api-3.5.3.jar
+2023-10-23 01:23:44,985 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_32.1.2.jre [12])
+2023-10-23 01:23:44,986 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\USER\.p2\pool\plugins\com.google.guava_32.1.2.jre.jar
+2023-10-23 01:23:44,986 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.9 [982])
+2023-10-23 01:23:44,999 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\USER\.p2\pool\plugins\slf4j.api_2.0.9.jar
+2023-10-23 01:23:44,999 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [38])
+2023-10-23 01:23:45,035 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\USER\.p2\pool\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2023-10-23 01:23:45,036 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20200909-1856 [36])
+2023-10-23 01:23:45,042 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\USER\.p2\pool\plugins\javax.annotation_1.3.5.v20200909-1856.jar
+2023-10-23 01:23:45,042 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.5.0 [73])
+2023-10-23 01:23:45,043 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\USER\.p2\pool\plugins\org.apache.commons.cli_1.5.0.jar
+2023-10-23 01:23:45,043 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.1 [14])
+2023-10-23 01:23:45,064 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\USER\.p2\pool\plugins\com.google.guava.failureaccess_1.0.1.jar
+2023-10-23 01:23:45,364 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\USER\AppData\Local\Temp\m2e-archetypeGenerator3254545374566895828":
+2023-10-23 01:23:45,368 [Worker-17: Launching mavenrun-8dba3b84-8fe0-4c12-8960-2723512e6dc5] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-webapp -DarchetypeVersion=1.4 -DgroupId=br.com.mylenaweb -DartifactId=servlet-web -Dversion=0.0.1-SNAPSHOT -Dpackage=br.com.mylenaweb.servlet_web -DoutputDirectory=C:\Users\USER\Desktop\servlet -Dstyle.color=always -U archetype:generate
+2023-10-23 01:27:40,473 [Worker-20: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\USER\Desktop\servlet\servlet-web\pom.xml
+2023-10-23 01:28:02,527 [Worker-20: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/3.2.2/maven-war-plugin-3.2.2.jar
+2023-10-23 01:28:02,844 [Worker-20: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/3.2.2/maven-war-plugin-3.2.2.jar
+2023-10-23 01:28:14,484 [Worker-20: Creating maven-archetype-webapp] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.mylenaweb:servlet-web:0.0.1-SNAPSHOT @ C:\Users\USER\Desktop\servlet\servlet-web\pom.xml.
+2023-10-23 01:28:15,124 [Worker-20: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11.pom
+2023-10-23 01:28:15,390 [Worker-20: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11.pom
+2023-10-23 01:28:15,973 [Worker-20: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11.jar
+2023-10-23 01:28:16,436 [Worker-20: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11.jar
+2023-10-23 01:28:17,780 [Worker-20: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/3.2.2/maven-war-plugin-3.2.2.pom
+2023-10-23 01:28:17,914 [Worker-20: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/3.2.2/maven-war-plugin-3.2.2.pom
+2023-10-23 01:28:18,296 [Worker-20: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.2.0/maven-archiver-3.2.0.pom
+2023-10-23 01:28:18,453 [Worker-20: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.2.0/maven-archiver-3.2.0.pom
+2023-10-23 01:28:18,611 [Worker-20: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.2.0/maven-shared-utils-3.2.0.pom
+2023-10-23 01:28:18,795 [Worker-20: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.2.0/maven-shared-utils-3.2.0.pom
+2023-10-23 01:28:18,941 [Worker-20: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/3.5/plexus-archiver-3.5.pom
+2023-10-23 01:28:19,084 [Worker-20: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/3.5/plexus-archiver-3.5.pom
+2023-10-23 01:28:19,267 [Worker-20: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/5.0/plexus-5.0.pom
+2023-10-23 01:28:19,412 [Worker-20: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/5.0/plexus-5.0.pom
+2023-10-23 01:28:19,752 [Worker-20: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/3.0.0/plexus-io-3.0.0.pom
+2023-10-23 01:28:19,903 [Worker-20: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/3.0.0/plexus-io-3.0.0.pom
+2023-10-23 01:28:20,056 [Worker-20: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.14/commons-compress-1.14.pom
+2023-10-23 01:28:20,216 [Worker-20: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.14/commons-compress-1.14.pom
+2023-10-23 01:28:20,424 [Worker-20: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/tukaani/xz/1.6/xz-1.6.pom
+2023-10-23 01:28:20,572 [Worker-20: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/tukaani/xz/1.6/xz-1.6.pom
+2023-10-23 01:28:20,978 [Worker-20: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/3.6.0/plexus-archiver-3.6.0.pom
+2023-10-23 01:28:21,130 [Worker-20: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/3.6.0/plexus-archiver-3.6.0.pom
+2023-10-23 01:28:21,403 [Worker-20: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/3.0.1/plexus-io-3.0.1.pom
+2023-10-23 01:28:21,560 [Worker-20: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/3.0.1/plexus-io-3.0.1.pom
+2023-10-23 01:28:21,717 [Worker-20: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.16.1/commons-compress-1.16.1.pom
+2023-10-23 01:28:21,899 [Worker-20: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.16.1/commons-compress-1.16.1.pom
+2023-10-23 01:28:22,051 [Worker-20: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/43/commons-parent-43.pom
+2023-10-23 01:28:22,231 [Worker-20: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/43/commons-parent-43.pom
+2023-10-23 01:28:22,429 [Worker-20: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/objenesis/objenesis/2.6/objenesis-2.6.pom
+2023-10-23 01:28:22,586 [Worker-20: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/objenesis/objenesis/2.6/objenesis-2.6.pom
+2023-10-23 01:28:22,768 [Worker-20: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/objenesis/objenesis-parent/2.6/objenesis-parent-2.6.pom
+2023-10-23 01:28:22,975 [Worker-20: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/objenesis/objenesis-parent/2.6/objenesis-parent-2.6.pom
+2023-10-23 01:28:25,546 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.2.0/maven-shared-utils-3.2.0.jar
+2023-10-23 01:28:25,694 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/3.6.0/plexus-archiver-3.6.0.jar
+2023-10-23 01:28:25,824 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/3.0.1/plexus-io-3.0.1.jar
+2023-10-23 01:28:25,824 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.2.0/maven-archiver-3.2.0.jar
+2023-10-23 01:28:25,824 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.16.1/commons-compress-1.16.1.jar
+2023-10-23 01:28:25,973 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.2.0/maven-shared-utils-3.2.0.jar
+2023-10-23 01:28:25,993 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/3.6.0/plexus-archiver-3.6.0.jar
+2023-10-23 01:28:25,993 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.2.0/maven-archiver-3.2.0.jar
+2023-10-23 01:28:26,075 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/3.0.1/plexus-io-3.0.1.jar
+2023-10-23 01:28:26,101 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/objenesis/objenesis/2.6/objenesis-2.6.jar
+2023-10-23 01:28:26,170 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.1.0/plexus-utils-3.1.0.jar
+2023-10-23 01:28:26,188 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.16.1/commons-compress-1.16.1.jar
+2023-10-23 01:28:26,321 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/objenesis/objenesis/2.6/objenesis-2.6.jar
+2023-10-23 01:28:26,440 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.1.0/plexus-utils-3.1.0.jar
+2023-10-23 01:28:34,150 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11-sources.jar
+2023-10-23 01:28:34,546 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11-sources.jar
+2023-10-23 01:28:34,559 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:4.11
+2023-10-23 01:28:35,079 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar
+2023-10-23 01:28:35,139 [Worker-20: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /servlet-web/src/main/java
+2023-10-23 01:28:35,139 [Worker-20: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /servlet-web/src/main/resources
+2023-10-23 01:28:35,140 [Worker-20: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /servlet-web/src/test/java
+2023-10-23 01:28:35,141 [Worker-20: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /servlet-web/src/test/resources
+2023-10-23 01:28:35,352 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar
+2023-10-23 01:28:35,360 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hamcrest:hamcrest-core:1.3
+2023-10-23 01:28:53,718 [Worker-20: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 73 sec
+2023-10-23 01:28:58,513 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-23 01:28:58,514 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USER\Desktop\servlet\servlet-web\src\main\resources
+2023-10-23 01:28:58,520 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-23 01:28:58,520 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USER\Desktop\servlet\servlet-web\src\test\resources
+2023-10-23 01:36:16,494 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-23 03:03:05,209 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-23 03:08:26,427 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-10-23 03:08:32,780 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.mylenaweb:servlet-web:0.0.1-SNAPSHOT @ C:\Users\USER\Desktop\servlet\servlet-web\pom.xml.
+2023-10-23 03:08:38,673 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /servlet-web/src/main/java
+2023-10-23 03:08:38,674 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /servlet-web/src/main/resources
+2023-10-23 03:08:38,676 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /servlet-web/src/test/java
+2023-10-23 03:08:38,677 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /servlet-web/src/test/resources
+2023-10-23 03:08:41,619 [Worker-5: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for servlet-web
+2023-10-23 03:08:41,685 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 11,00 sec, update config takes 3,00 sec 
+2023-10-23 03:08:41,987 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-23 03:08:41,987 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USER\Desktop\servlet\servlet-web\src\main\resources
+2023-10-23 03:08:41,992 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-23 03:08:41,993 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USER\Desktop\servlet\servlet-web\src\test\resources
+2023-10-23 03:08:41,993 [Worker-15: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of servlet-web
+2023-10-23 03:08:41,994 [Worker-15: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for servlet-web
+2023-10-23 03:23:26,793 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-23 03:23:27,210 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USER\Desktop\servlet\servlet-web\src\main\resources
+2023-10-23 03:23:27,216 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-23 03:23:27,216 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USER\Desktop\servlet\servlet-web\src\test\resources
+2023-10-23 03:36:44,469 [Worker-35: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.mylenaweb:servlet-web:0.0.1-SNAPSHOT @ C:\Users\USER\Desktop\servlet\servlet-web\pom.xml.
+2023-10-23 03:36:45,518 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/servlet/jakarta.servlet-api/6.0.0/jakarta.servlet-api-6.0.0.pom
+2023-10-23 03:36:45,638 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/servlet/jakarta.servlet-api/6.0.0/jakarta.servlet-api-6.0.0.pom
+2023-10-23 03:36:45,680 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/ee4j/project/1.0.7/project-1.0.7.pom
+2023-10-23 03:36:45,937 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/ee4j/project/1.0.7/project-1.0.7.pom
+2023-10-23 03:36:45,981 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/servlet/jakarta.servlet-api/6.0.0/jakarta.servlet-api-6.0.0.jar
+2023-10-23 03:36:46,463 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/servlet/jakarta.servlet-api/6.0.0/jakarta.servlet-api-6.0.0.jar
+2023-10-23 03:36:55,778 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/servlet/jakarta.servlet-api/6.0.0/jakarta.servlet-api-6.0.0-sources.jar
+2023-10-23 03:36:56,332 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/servlet/jakarta.servlet-api/6.0.0/jakarta.servlet-api-6.0.0-sources.jar
+2023-10-23 03:36:56,339 [Worker-37: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.servlet:jakarta.servlet-api:6.0.0
+2023-10-23 03:37:08,919 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-23 03:37:08,919 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USER\Desktop\servlet\servlet-web\src\main\resources
+2023-10-23 03:37:08,925 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-23 03:37:08,926 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USER\Desktop\servlet\servlet-web\src\test\resources
+2023-10-23 03:37:08,926 [Worker-35: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of servlet-web
+2023-10-23 03:37:08,926 [Worker-35: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for servlet-web
+2023-10-23 03:37:11,973 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-23 03:37:11,973 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USER\Desktop\servlet\servlet-web\src\main\resources
+2023-10-23 03:37:11,977 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-23 03:37:11,977 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USER\Desktop\servlet\servlet-web\src\test\resources
+2023-10-23 03:39:22,457 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-23 03:39:22,458 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USER\Desktop\servlet\servlet-web\src\main\resources
+2023-10-23 03:39:22,469 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-23 03:39:22,469 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USER\Desktop\servlet\servlet-web\src\test\resources
+2023-10-23 03:43:41,809 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-23 03:43:41,810 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USER\Desktop\servlet\servlet-web\src\main\resources
+2023-10-23 03:43:41,813 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-23 03:43:41,813 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USER\Desktop\servlet\servlet-web\src\test\resources
+2023-10-23 03:55:56,172 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-23 03:55:56,173 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USER\Desktop\servlet\servlet-web\src\main\resources
+2023-10-23 03:55:56,177 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-23 03:55:56,177 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USER\Desktop\servlet\servlet-web\src\test\resources
+2023-10-23 03:58:00,898 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-23 03:58:00,899 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USER\Desktop\servlet\servlet-web\src\main\resources
+2023-10-23 03:58:00,904 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-23 03:58:00,904 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USER\Desktop\servlet\servlet-web\src\test\resources
+2023-10-23 03:59:25,007 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-23 03:59:25,008 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USER\Desktop\servlet\servlet-web\src\main\resources
+2023-10-23 03:59:25,010 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-23 03:59:25,011 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USER\Desktop\servlet\servlet-web\src\test\resources
+2023-10-23 04:01:20,194 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-23 04:01:20,194 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USER\Desktop\servlet\servlet-web\src\main\resources
+2023-10-23 04:01:20,198 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-23 04:01:20,198 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USER\Desktop\servlet\servlet-web\src\test\resources
+2023-10-23 04:03:34,405 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-23 04:03:34,406 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USER\Desktop\servlet\servlet-web\src\main\resources
+2023-10-23 04:03:34,410 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-23 04:03:34,411 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USER\Desktop\servlet\servlet-web\src\test\resources
+2023-10-23 04:11:13,361 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-23 04:11:13,362 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USER\Desktop\servlet\servlet-web\src\main\resources
+2023-10-23 04:11:13,364 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-23 04:11:13,399 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USER\Desktop\servlet\servlet-web\src\test\resources
+2023-10-23 04:18:41,736 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-23 04:18:41,737 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USER\Desktop\servlet\servlet-web\src\main\resources
+2023-10-23 04:18:41,740 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-23 04:18:41,741 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USER\Desktop\servlet\servlet-web\src\test\resources
+2023-10-23 04:26:42,887 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-23 04:26:42,888 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USER\Desktop\servlet\servlet-web\src\main\resources
+2023-10-23 04:26:42,891 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-23 04:26:42,919 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USER\Desktop\servlet\servlet-web\src\test\resources
+2023-10-23 04:30:53,732 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-23 04:30:53,732 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USER\Desktop\servlet\servlet-web\src\main\resources
+2023-10-23 04:30:53,738 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-23 04:30:53,739 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USER\Desktop\servlet\servlet-web\src\test\resources
+2023-10-23 04:33:26,575 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-23 04:33:26,679 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USER\Desktop\servlet\servlet-web\src\main\resources
+2023-10-23 04:33:26,692 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-23 04:33:26,693 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USER\Desktop\servlet\servlet-web\src\test\resources
+2023-10-23 05:00:10,725 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-23 05:00:11,080 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USER\Desktop\servlet\servlet-web\src\main\resources
+2023-10-23 05:00:11,095 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-23 05:00:11,096 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USER\Desktop\servlet\servlet-web\src\test\resources
+2023-10-23 05:04:49,940 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-23 05:04:49,940 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USER\Desktop\servlet\servlet-web\src\main\resources
+2023-10-23 05:04:49,942 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-23 05:04:49,942 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USER\Desktop\servlet\servlet-web\src\test\resources
+2023-10-23 05:14:21,971 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-23 05:14:42,458 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 05:14:42,461 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-23 05:14:42,498 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 05:15:03,587 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-23 05:15:03,589 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 05:15:03,592 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-23 05:15:03,593 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 05:17:26,374 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-23 05:17:26,375 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 05:17:26,383 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-23 05:17:26,384 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 05:29:24,001 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-23 05:29:24,306 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 05:29:24,309 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-23 05:29:24,310 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

@@ -1,0 +1,11 @@
+package br.com.mylenaweb.web;
+
+import jakarta.servlet.http.HttpServlet;
+
+public class PrimeiroServlet extends HttpServlet{
+	
+	private static final long serialVersionUID = 1L;
+	
+	
+
+}

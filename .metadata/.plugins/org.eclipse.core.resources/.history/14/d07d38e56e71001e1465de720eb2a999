@@ -1,0 +1,6 @@
+package br.com.mylenaweb.web;
+
+
+public class PrimeiroServlet extends HttpServlet{
+
+}
